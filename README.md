@@ -7,7 +7,7 @@ An AI-powered chatbot built using Streamlit and Google's Gemini API.
 [Click Here](https://ai-chatbot-vwaubwqicz9xzfzrd9bgyc.streamlit.app/)
 
 ## Screenshot : 
-![App Screenshot][assets/demo.png]
+![App Screenshot](assets/demo.png)
 
 ## Features
 
